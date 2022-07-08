@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 jigjhkl;bnmiiiii,
 hjkl;
+=======
+
+ifghiiiijkl;'
+hjkl;'
+ihjkl
+>>>>>>> 574f4887ad3a5c977b03d88153b2c9d9c78d9a90
